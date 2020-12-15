@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="914d5df1-e12b-4ace-9fe4-b54d5d604487" name="Default Changelist" comment="" />
+    <list default="true" id="23f8139a-5875-4818-b9d2-7805e106cd1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,22 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="f1ddd75c-e8ba-45b2-a750-da213d5aedbf" />
   <component name="MavenImportPreferences">
@@ -18,27 +38,84 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1lhMuDRnZnujOrCDZ5XXt5PzKLm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tic-Tac-Toe" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23f8139a-5875-4818-b9d2-7805e106cd1d" name="Default Changelist" comment="" />
+      <created>1608045090765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608045090765</updated>
+      <workItem from="1608045092034" duration="5796000" />
+    </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="594" y="190" key="#JavaScript" timestamp="1608051863014">
+    <state x="310" y="136" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608045706358">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state x="594" y="190" key="#JavaScript/0.0.1707.960@0.0.1707.960" timestamp="1608051863014" />
+    <state x="310" y="136" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.960@0.0.1707.960" timestamp="1608045706358" />
+    <state width="808" height="255" key="GridCell.Tab.0.bottom" timestamp="1608048781932">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="808" height="255" key="GridCell.Tab.0.bottom/0.0.1707.960@0.0.1707.960" timestamp="1608048781932" />
+    <state width="808" height="255" key="GridCell.Tab.0.center" timestamp="1608048781932">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="808" height="255" key="GridCell.Tab.0.center/0.0.1707.960@0.0.1707.960" timestamp="1608048781932" />
+    <state width="808" height="255" key="GridCell.Tab.0.left" timestamp="1608048781932">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="808" height="255" key="GridCell.Tab.0.left/0.0.1707.960@0.0.1707.960" timestamp="1608048781932" />
+    <state width="808" height="255" key="GridCell.Tab.0.right" timestamp="1608048781932">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="808" height="255" key="GridCell.Tab.0.right/0.0.1707.960@0.0.1707.960" timestamp="1608048781932" />
   </component>
 </project>
